@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=SENSOR_LD Pin=ESP-32 C3 SM-8
+Removed Pin From Net: NetName=SENSOR_LE Pin=ESP-32 C3 SM-9
+Change Component Designator: OldDesignator=MD NewDesignator=Conector MD
+Change Component Designator: OldDesignator=ME NewDesignator=Conector ME
+Change Component Designator: OldDesignator=Sensor F NewDesignator=Frontal
+Change Component Designator: OldDesignator=Sensor LD NewDesignator=Lat Dir
+Change Component Designator: OldDesignator=Sensor LE NewDesignator=Lat Esq
+Added Component: Designator=Borda(JST_BM03B-SRSS-TB(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BM03B-SRSS-TB(LF)(SN)/JST/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BM03B-SRSS-TB(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BM03B-SRSS-TB(LF)(SN)/JST/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Mod Start(HDR1X3 THT)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=On(LED SMD 0603 Vermelho)
+Add component (AddParameter): Name = "Cor"; Value = "Vermelho"; VariantName = "[No Variations]"
+Added Component: Designator=R7(Resistor SMD 0603)
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=Switch(SW-SMD_SK-3293S)
+Add component (AddParameter): Name = "Actuator Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Style"; Value = "Rectangular columnar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (AC)"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (DC)"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20211011/4EA3EA25F9F21B5CC9E3D39CE49F5B8E.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SK-3293S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "??1.4mm ???? ????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SK-3293S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "1??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40?~+85?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Style"; Value = "SMDSplicing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C466006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Height"; Value = "1.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Length"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Width"; Value = "2.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SK-3293S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=Borda-2
+Added Pin To Net: NetName=GND Pin=Borda-3
+Added Pin To Net: NetName=GND Pin=Borda-S1
+Added Pin To Net: NetName=GND Pin=Borda-S2
+Added Pin To Net: NetName=3V3 Pin=ESP-32 C3 SM-3.3
+Added Pin To Net: NetName=SENSOR_LD Pin=ESP-32 C3 SM-20
+Added Pin To Net: NetName=SENSOR_LE Pin=ESP-32 C3 SM-21
+Added Pin To Net: NetName=5V Pin=Mod Start-1
+Added Pin To Net: NetName=GND Pin=Mod Start-2
+Added Pin To Net: NetName=GND Pin=On-K
+Added Pin To Net: NetName=5V Pin=R7-1
+Added Pin To Net: NetName=NetBateria_2 Pin=Switch-2
+Added Pin To Net: NetName=VBat Pin=Switch-3
+Added Pin To Net: NetName=GND Pin=Switch-4
+Added Pin To Net: NetName=GND Pin=Switch-4
+Added Pin To Net: NetName=GND Pin=Switch-4
+Added Pin To Net: NetName=GND Pin=Switch-4
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetFrontal_1
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetLat Dir_1
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetLat Esq_1
+Added Pin To Net: NetName=MOD_START Pin=ESP-32 C3 SM-6
+Added Pin To Net: NetName=MOD_START Pin=Mod Start-3
+Added Net: Name=MOD_START
+Added Pin To Net: NetName=NetOn_A Pin=On-A
+Added Pin To Net: NetName=NetOn_A Pin=R7-2
+Added Net: Name=NetOn_A
+Added Pin To Net: NetName=SENSOR_B Pin=Borda-1
+Added Pin To Net: NetName=SENSOR_B Pin=ESP-32 C3 SM-7
+Added Net: Name=SENSOR_B
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component Borda JST SH 3
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component Mod Start Header 3
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component On LED SMD 0603
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component R7 Resistor SMD
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component Switch SK-3293S

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=MOTOR_DIR_IN1 Pin=ESP-32 C3 SM-0
+Removed Pin From Net: NetName=MOTOR_DIR_IN2 Pin=ESP-32 C3 SM-1
+Removed Pin From Net: NetName=LED Pin=ESP-32 C3 SM-3
+Removed Pin From Net: NetName=MOTOR_ESQ_IN2 Pin=ESP-32 C3 SM-5
+Removed Pin From Net: NetName=MOD_START Pin=ESP-32 C3 SM-6
+Added Pin To Net: NetName=LED Pin=ESP-32 C3 SM-0
+Added Pin To Net: NetName=MOD_START Pin=ESP-32 C3 SM-1
+Added Pin To Net: NetName=MOTOR_ESQ_IN2 Pin=ESP-32 C3 SM-3
+Added Pin To Net: NetName=MOTOR_DIR_IN2 Pin=ESP-32 C3 SM-5
+Added Pin To Net: NetName=MOTOR_DIR_IN1 Pin=ESP-32 C3 SM-6

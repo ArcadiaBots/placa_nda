@@ -1,0 +1,142 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=3V3 Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=VBat Pin=C2-2
+Removed Pin From Net: NetName=VBat Pin=CTan-1
+Removed Pin From Net: NetName=GND Pin=CTan-2
+Removed Pin From Net: NetName=MOTOR_DIR_IN1 Pin=ESP-32 C3 SM-2
+Removed Pin From Net: NetName=MOTOR_DIR_IN2 Pin=ESP-32 C3 SM-3
+Removed Pin From Net: NetName=MOTOR_DIR_OUT1 Pin=TB6612FNG-1
+Removed Pin From Net: NetName=MOTOR_DIR_OUT1 Pin=TB6612FNG-2
+Removed Pin From Net: NetName=GND Pin=TB6612FNG-3
+Removed Pin From Net: NetName=GND Pin=TB6612FNG-4
+Removed Pin From Net: NetName=MOTOR_DIR_OUT2 Pin=TB6612FNG-5
+Removed Pin From Net: NetName=MOTOR_DIR_OUT2 Pin=TB6612FNG-6
+Removed Pin From Net: NetName=MOTOR_ESQ_OUT2 Pin=TB6612FNG-7
+Removed Pin From Net: NetName=MOTOR_ESQ_OUT2 Pin=TB6612FNG-8
+Removed Pin From Net: NetName=GND Pin=TB6612FNG-9
+Removed Pin From Net: NetName=GND Pin=TB6612FNG-10
+Removed Pin From Net: NetName=MOTOR_ESQ_OUT1 Pin=TB6612FNG-11
+Removed Pin From Net: NetName=MOTOR_ESQ_OUT1 Pin=TB6612FNG-12
+Removed Pin From Net: NetName=VBat Pin=TB6612FNG-13
+Removed Pin From Net: NetName=VBat Pin=TB6612FNG-14
+Removed Pin From Net: NetName=MOTOR_ESQ_IN2 Pin=TB6612FNG-16
+Removed Pin From Net: NetName=MOTOR_ESQ_IN1 Pin=TB6612FNG-17
+Removed Pin From Net: NetName=GND Pin=TB6612FNG-18
+Removed Pin From Net: NetName=3V3 Pin=TB6612FNG-19
+Removed Pin From Net: NetName=3V3 Pin=TB6612FNG-20
+Removed Pin From Net: NetName=MOTOR_DIR_IN1 Pin=TB6612FNG-21
+Removed Pin From Net: NetName=MOTOR_DIR_IN2 Pin=TB6612FNG-22
+Removed Pin From Net: NetName=VBat Pin=TB6612FNG-24
+Removed Member From Class: ClassName=esquematico_placa_micro Member=CTan
+Removed Member From Class: ClassName=esquematico_placa_micro Member=TB6612FNG
+Change Component Footprint: Designator=Mod Start Old Footprint=MicroStart Start Module New Footprint=HDR1X3 THT
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change component parameters: Designator = "On" ("On"); Footprint = "LED SMD 0603 Vermelho"; UniqueID = "\GBPLTKTM" ("\GBPLTKTM")
+Change component parameters (AddParameter): Name = "Cor"; Value = "Verde"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC0603)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM2165C1H391JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.07 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM2165C1H391JA01D/Murata%2520Electronics%2520North%2520America/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC0603)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM2165C1H391JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.07 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM2165C1H391JA01D/Murata%2520Electronics%2520North%2520America/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC0603)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM2165C1H391JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.07 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM2165C1H391JA01D/Murata%2520Electronics%2520North%2520America/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC0603)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM2165C1H391JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.07 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM2165C1H391JA01D/Murata%2520Electronics%2520North%2520America/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Config(LED SMD 0603 Vermelho)
+Add component (AddParameter): Name = "Cor"; Value = "Azul"; VariantName = "[No Variations]"
+Added Component: Designator=DRV8870 MD(VREG_LM5017MR/NOPB)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DRV8870DDA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DRV8870 ME(VREG_LM5017MR/NOPB)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DRV8870DDA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(Resistor SMD 0603)
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=R9(Resistor SMD 0603)
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.2"; VariantName = "[No Variations]"
+Added Component: Designator=R10(Resistor SMD 0603)
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBat Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=VBat Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=VBat Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=VBat Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=Config-K
+Added Pin To Net: NetName=GND Pin=DRV8870 MD-1
+Added Pin To Net: NetName=MOTOR_DIR_IN2 Pin=DRV8870 MD-2
+Added Pin To Net: NetName=MOTOR_DIR_IN1 Pin=DRV8870 MD-3
+Added Pin To Net: NetName=3V3 Pin=DRV8870 MD-4
+Added Pin To Net: NetName=VBat Pin=DRV8870 MD-5
+Added Pin To Net: NetName=MOTOR_DIR_OUT1 Pin=DRV8870 MD-6
+Added Pin To Net: NetName=MOTOR_DIR_OUT2 Pin=DRV8870 MD-8
+Added Pin To Net: NetName=GND Pin=DRV8870 ME-1
+Added Pin To Net: NetName=MOTOR_ESQ_IN2 Pin=DRV8870 ME-2
+Added Pin To Net: NetName=MOTOR_ESQ_IN1 Pin=DRV8870 ME-3
+Added Pin To Net: NetName=3V3 Pin=DRV8870 ME-4
+Added Pin To Net: NetName=VBat Pin=DRV8870 ME-5
+Added Pin To Net: NetName=MOTOR_ESQ_OUT2 Pin=DRV8870 ME-6
+Added Pin To Net: NetName=MOTOR_ESQ_OUT1 Pin=DRV8870 ME-8
+Added Pin To Net: NetName=MOTOR_DIR_IN1 Pin=ESP-32 C3 SM-0
+Added Pin To Net: NetName=MOTOR_DIR_IN2 Pin=ESP-32 C3 SM-1
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=LED Pin=ESP-32 C3 SM-3
+Added Pin To Net: NetName=LED Pin=R8-1
+Added Net: Name=LED
+Added Pin To Net: NetName=NetConfig_A Pin=Config-A
+Added Pin To Net: NetName=NetConfig_A Pin=R8-2
+Added Net: Name=NetConfig_A
+Added Pin To Net: NetName=NetDRV8870 MD_7 Pin=DRV8870 MD-7
+Added Pin To Net: NetName=NetDRV8870 MD_7 Pin=R10-1
+Added Net: Name=NetDRV8870 MD_7
+Added Pin To Net: NetName=NetDRV8870 ME_7 Pin=DRV8870 ME-7
+Added Pin To Net: NetName=NetDRV8870 ME_7 Pin=R9-1
+Added Net: Name=NetDRV8870 ME_7
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component C5 0.1uF
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component C6 47uF
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component Config LED SMD 0603
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component DRV8870 MD DRV8870DDA
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component DRV8870 ME DRV8870DDA
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component R8 Resistor SMD
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component R9 Resistor SMD
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component R10 Resistor SMD
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component Switch SK-3293S

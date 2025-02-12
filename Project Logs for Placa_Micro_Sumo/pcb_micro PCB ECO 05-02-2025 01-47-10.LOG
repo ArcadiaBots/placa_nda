@@ -1,0 +1,6 @@
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component C1 10uF
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component C2 22uF
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component C3 0.1uF
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component C4 47uF
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component DRV8870 MD DRV8870DDA
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component R10 Resistor SMD

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SENSOR_B Pin=ESP-32 C3 SM-7
+Removed Pin From Net: NetName=SENSOR_LD Pin=ESP-32 C3 SM-20
+Added Pin To Net: NetName=SENSOR_LD Pin=ESP-32 C3 SM-7
+Added Pin To Net: NetName=SENSOR_B Pin=ESP-32 C3 SM-20
