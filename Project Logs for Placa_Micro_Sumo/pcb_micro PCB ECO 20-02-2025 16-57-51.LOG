@@ -1,0 +1,21 @@
+Added Component: Designator=ESP-32 C3 SM(MODULE_ESP32-C3_SUPERMINI)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-C3%20SuperMini_TH/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-C3 SuperMini_TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-C3%20SuperMini_TH/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LED Pin=ESP-32 C3 SM-0
+Added Pin To Net: NetName=MOD_START Pin=ESP-32 C3 SM-1
+Added Pin To Net: NetName=3V3 Pin=ESP-32 C3 SM-3.3
+Added Pin To Net: NetName=MOTOR_ESQ_IN1 Pin=ESP-32 C3 SM-3
+Added Pin To Net: NetName=MOTOR_ESQ_IN2 Pin=ESP-32 C3 SM-4
+Added Pin To Net: NetName=MOTOR_DIR_IN1 Pin=ESP-32 C3 SM-5
+Added Pin To Net: NetName=5V Pin=ESP-32 C3 SM-5V
+Added Pin To Net: NetName=MOTOR_DIR_IN2 Pin=ESP-32 C3 SM-6
+Added Pin To Net: NetName=SENSOR_LD Pin=ESP-32 C3 SM-7
+Added Pin To Net: NetName=SENSOR_F Pin=ESP-32 C3 SM-10
+Added Pin To Net: NetName=SENSOR_B Pin=ESP-32 C3 SM-20
+Added Pin To Net: NetName=SENSOR_LE Pin=ESP-32 C3 SM-21
+Added Pin To Net: NetName=GND Pin=ESP-32 C3 SM-G
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component ESP-32 C3 SM ESP32-C3_SUPERMINI_TH
