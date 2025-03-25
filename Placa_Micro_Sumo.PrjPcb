@@ -119,6 +119,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPWMFBVU
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Placa_Micro_Sumo\Design Rule Check - pcb_micro.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
